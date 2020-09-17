@@ -1,0 +1,10 @@
+browser=chrome
+url=https://opensource-demo.orangehrmlive.com/
+
+#login credentials
+username=Admin
+password=admin123
+uname=Pavan
+urole=Admin
+ename=PavanReddy
+ustatus=Enabled
